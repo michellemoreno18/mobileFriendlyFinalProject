@@ -1,0 +1,67 @@
+.main-hero{
+    background-image: url("/assets/images/beach.jpeg");
+    background-size: cover;
+    height: 500px;
+    background-position: center;
+}
+.jumbotron{
+    background-color: transparent;
+    padding-top: 200px;
+}
+.display-4{
+    text-align: center;
+}
+.lead{
+    text-align: center;
+}
+.profile-pic{
+    border-radius: 1000px;
+    width: 100%;
+    height: 80%;
+    padding: 40px;
+}
+.about-me{
+    padding-top: 30px;
+    text-align: center;
+    color: #4a4a4a;
+}
+.summary-title{
+    text-transform: uppercase;
+    font-size: 20px;
+    color: #4a4a4a;
+    padding: 5px 20px;
+}
+.summary{
+    font-size: 20px;
+    color: #8c8c8c;
+    padding: 5px 30px;
+}
+.pic-name{
+    font-size: 20px;
+    color: #4a4a4a;
+    padding: 5px 20px;
+    text-align: center;
+    text-transform: uppercase;
+}
+.location{
+    font-size: 18px;
+    color: #8c8c8c;
+    padding: 5px 30px;
+    text-align: center;
+}
+.stats{
+    background-color: #363636;
+    padding: 80px;
+}
+.stats-title{
+    text-align: center;
+    text-transform: uppercase;
+    font-size: 20px;
+    color: #fff;
+}
+.stats-amount{
+    text-align: center;
+    font-size: 20px;
+    color: #fff;
+    padding: 5px 30px;
+}
