@@ -12,7 +12,7 @@ body {
   width: 164px;
   height: 36px;
   perspective: 300px;
-  font-size: 24px;
+  font-size: 20px;
   margin: 8px;
 }
 .social-container .social-cube {
@@ -47,16 +47,16 @@ body {
   transform: translateZ(-18px) rotateX(90deg);
 }
 
-.social-container.twitter .social-cube .front, .social-container.twitter .social-cube .back {
+.social-container.instagram .social-cube .front, .social-container.instagram .social-cube .back {
   background: #4099FF;
 }
-.social-container.twitter .social-cube .bottom {
+.social-container.instagram .social-cube .bottom {
   background: #0d7eff;
 }
-.social-container.twitter:hover .social-cube .bottom {
+.social-container.instagram:hover .social-cube .bottom {
   background: #4099FF;
 }
-.social-container.twitter:hover .social-cube .front {
+.social-container.instagram:hover .social-cube .front {
   background: #73b4ff;
 }
 .social-container.facebook .social-cube .front, .social-container.facebook .social-cube .back {

@@ -1,5 +1,5 @@
 .main-hero{
-    background-image: url("/assets/images/beach.jpeg");
+    background-image: url("/assets/images/thebeach.jpg");
     background-size: cover;
     height: 500px;
     background-position: center;
@@ -73,7 +73,64 @@
     display: none;
   }
 
-#contact {
-    
+.contact {
+    padding: 40px;
 }
-  
+.logo{
+    width: 20%;
+}
+.skills-section{
+    background-color: white;
+    padding: 30px;
+} 
+.skills-title{
+    text-align: center;
+}
+.skills-icon{
+    width: 100px;
+    margin: 0 auto;
+}
+.skills-subtitle{
+    text-align: center;
+}
+#skills-row{
+    padding-top: 50px;
+}
+.contact-resume{
+    background-color:#ff3860;
+    padding: 40px;
+}
+
+button{
+    background-color:#ff3860;
+    border-radius: 10px;
+    border: 1px solid white;
+    color: white;
+    padding: 5px;
+}
+#resume-button{
+    margin: 0 auto;
+}
+
+.btn-send{
+    background-color: #fff;
+    border-radius: 10px;
+    border: 1px solid white;
+    color: white;
+    padding: 5px;
+}
+.text-center img{
+    width: 300px!important;
+}
+.past-projects{
+    background-color: white;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+.past-projects-title{
+    padding-left: 100px;
+}
+#submit-button{
+    background-color: pink;
+    border-color: pink;
+}
