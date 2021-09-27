@@ -55,7 +55,8 @@
 }
 .stats-title{
     text-align: center;
-    text-transform: uppercase;
+    text-transform: uppercase;          
+
     font-size: 20px;
     color: #fff;
 }
@@ -97,12 +98,12 @@
     padding-top: 50px;
 }
 .contact-resume{
-    background-color:#ff3860;
+    background-color:#a0ddff;
     padding: 40px;
 }
 
 button{
-    background-color:#ff3860;
+    background-color:#a0ddff;
     border-radius: 10px;
     border: 1px solid white;
     color: white;
@@ -131,6 +132,6 @@ button{
     padding-left: 100px;
 }
 #submit-button{
-    background-color: pink;
-    border-color: pink;
+    background-color: #a0ddff;
+    border-color:#a0ddff;
 }
